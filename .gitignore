@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# TensorFlow
+logs/
+checkpoints/
+saved_model/
+*.keras
+*.h5
+*.ckpt
+
+# Model Weights
+models/
+weights/
+
+# Dataset
+dataset/
+data/
+train/
+validation/
+test/
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tif
+*.webp
+
+# Environment Variables
+.env
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Temporary Files
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Google Colab
+/content/
+
+# Jupyter Runtime
+*.nbconvert.ipynb
+
+# Kaggle API
+kaggle.json
